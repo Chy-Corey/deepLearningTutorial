@@ -8,3 +8,9 @@
 
 笔记方式：Jupyter Notebook。
 
+
+
+配套练习：
+github: https://github.com/robbertliu/deeplearning.ai-andrewNG
+gitee: https://gitee.com/Mei_HW/deeplearning.ai-andrew-ng
+kesci线上版目录：https://zhuanlan.zhihu.com/p/95510114
